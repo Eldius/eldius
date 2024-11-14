@@ -10,7 +10,7 @@ I've also worked with **Java development**. I have already developed projects in
 
 ### You can find out more about my work and my interests:
 
-* [Eldius - BlueSky](https://duckduckgo.com)
+* [Eldius - BlueSky](https://bsky.app/profile/eldio.tech)
 * [Eldio Santos - LinkedIn](https://www.linkedin.com/in/eldiosantos/)
 * [Eldius - Dev.to](https://dev.to/eldius)
 * [Eldius - Medium](https://medium.com/@eldius)
